@@ -105,6 +105,15 @@ If you’re interested in:
 Feel free to open an issue or submit a PR.
 
 ---
+## Current Tech Stack
+- React 19.2
+- TypeScript
+- Vite
+- Tailwind CSS
+- Google Gemini AI
+- PDF.js
+- React Flow
+---
 
 ##  License
 
